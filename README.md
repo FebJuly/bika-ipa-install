@@ -1,7 +1,7 @@
 # 哔咔ipa在线安装
-`b.ipa` 为签名后哔咔
+`Bika CG.ipa` 为签名后哔咔
 
-`chat.ipa` 为签名后兜里兜里
+`douli.ipa` 为签名后兜里兜里
 
 <h3>BikaCG.plist</h3>
 用于伺服器下载
